@@ -1,0 +1,1 @@
+import numpydef pdg(nb):    k = nb - 1    while nb % k != 0:        k = k - 1    return kn = 1234print(pdg(n))
